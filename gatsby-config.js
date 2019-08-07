@@ -1,4 +1,4 @@
-const proxy = require('http-proxy-middleware');
+
 
 module.exports = {
   siteMetadata: {
@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-graphql',
       options: {
-        typeName: 'RootQueryType',
+        typeName: 'RootQuery',
         fieldName: 'questionnaires',
         url: 'https://good-company-server.herokuapp.com/graphql'
       }
