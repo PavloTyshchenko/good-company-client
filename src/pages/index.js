@@ -64,6 +64,7 @@ const items = [
     { id: 12, name: 'Алкоголь', descr: 'Стратегічний товар: драйв, пройоби на сутки, розвязування міжнародних конфліктів', imgUrl: 'https://s13.stc.all.kpcdn.net/share/i/12/10171743/inx960x640.jpg' },
     { id: 13, name: 'Їжа', descr: 'Стратегічний товар: основний спосіб продовжувати процеси життєдіяльності', imgUrl: 'https://img.tsn.ua/cached/1533905423/tsn-db9ef401efc93a5fd1b676cd38abbef3/thumbs/990x540/f1/df/bfa145e4de51bab98f3b6ecb30fddff1.jpeg' },
     { id: 14, name: 'Зарядний пристрій', descr: 'Плюс можна одну переноску, плюс павербенки', imgUrl: 'https://blog.allo.ua/wp-content/uploads/Kak-vybrat-zaryadku-dlya-telefona-sovety-ekspertov-Zaryadka-universal.jpg' },
+    { id: 15, name: 'Дощовик', descr: 'Для сухості', imgUrl: 'https://i1.wp.com/3m.lviv.ua/wp-content/uploads/2016/11/%D0%9F%D0%BB%D0%B0%D1%89-%D0%B4%D0%BE%D1%89%D0%BE%D0%B2%D0%B8%D0%BA.png?fit=600%2C600' },
 ];
 
 const clothes = [

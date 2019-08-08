@@ -231,7 +231,6 @@ const AddForm = (props) => {
                 required
                 fullWidth
                 label="З ким і як їдеш, коротко"
-                autoFocus
                 value={values.road}
                 onChange={handleChange('road')}
               />
@@ -242,7 +241,6 @@ const AddForm = (props) => {
                 variant="outlined"
                 fullWidth
                 label="Короткий коментар"
-                autoFocus
                 value={values.comments}
                 onChange={handleChange('comments')}
               />
